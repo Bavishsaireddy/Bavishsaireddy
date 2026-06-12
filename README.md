@@ -12,7 +12,7 @@ I build systems that don't just serve requests they reason, retrieve, and rememb
 
 **Stack:**
 
-`Python` `Java` `TypeScript` `Spring Boot` `React` `Next.js` `Redux` `Docker` `Kubernetes` `AWS` `GCP` `LLM APIs` `Vector DBs` `RAG` `MCP`
+`Python` `Java` `Swift` `TypeScript` `Spring Boot` `React` `Next.js` `Redux` `Docker` `Kubernetes` `AWS` `GCP` `LLM APIs` `Vector DBs` `RAG` `MCP`
 
 **Philosophy:**
 
